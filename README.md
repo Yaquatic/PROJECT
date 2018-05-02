@@ -16,8 +16,8 @@ npm run build
 
 Repartition des tâches:
 Anthony: écriture du site (information visible sur le projet fini)
-Giorgio: aspect visuel
-Thibault: codage background
+Giorgio: css html
+Thibault: javascript
 
 ```
 
