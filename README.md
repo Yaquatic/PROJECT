@@ -1,6 +1,6 @@
 # project
 
-> ca va etre bien
+> site sur les théories du complot. 
 
 ## Build Setup
 
